@@ -5,3 +5,4 @@ alur fitur login:
 1. masukkan email dan password
 2. memvalidasi masukan
 3. menampilkan halaman beranda
+4. menambahkan deskripsi mengenai alur login
